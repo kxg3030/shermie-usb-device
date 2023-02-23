@@ -1,0 +1,10 @@
+github.com/gentlemanautomaton/volmgmt v0.0.0-20221007202021-7cf5f35a8267 h1:zAMzwhE24sNgPZJRU7fv2t3aiurUTxo5WaQ6st+FyWI=
+github.com/gentlemanautomaton/volmgmt v0.0.0-20221007202021-7cf5f35a8267/go.mod h1:zoWTD07P8zIntwkfTgoXSvan/PCWtQeKnvyhN8REn1g=
+github.com/gookit/color v1.5.2 h1:uLnfXcaFjlrDnQDT+NCBcfhrXqYTx/rcCa6xn01Y8yI=
+github.com/gookit/goutil v0.6.5 h1:A8S6ZFcXCvQzYreuADyRjn4lIs7X1GQ7y/kU/UD7Q68=
+github.com/gookit/goutil v0.6.5/go.mod h1:90KOayLmcX12ZcbvQ6JakwJ7g4GbpzfjkOl7BHk6tAY=
+github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 h1:QldyIu/L63oPpyvQmHgvgickp1Yw510KJOqX7H24mg8=
+golang.org/x/sys v0.5.0 h1:MUK/U/4lj1t1oPg0HfuXDN/Z1wv31ZJ/YcPiGccS4DU=
+golang.org/x/sys v0.5.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/text v0.7.0 h1:4BRB4x83lYWy72KwLD/qYDuTu7q9PjSagHvijDw7cLo=
+golang.org/x/text v0.7.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
